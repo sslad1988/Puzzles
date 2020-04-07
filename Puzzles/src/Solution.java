@@ -12,6 +12,8 @@ enum Color {
 	RED, GREEN
 }
 
+//https://www.hackerrank.com/challenges/java-vistor-pattern/problem
+
 abstract class Tree {
 
 	private int value;
